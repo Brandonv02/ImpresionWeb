@@ -16,12 +16,7 @@ export default class ButtonPanel extends React.Component {
   render() {
     return (
       <div className="component-button-panel">
-        {/* <div>
-          
-          <Button name="+/-" clickHandler={this.handleClick} />
-          <Button name="%" clickHandler={this.handleClick} />
-          <Button name="÷" clickHandler={this.handleClick} orange />
-        </div> */}
+
         <div>
           <Button name="7" clickHandler={this.handleClick} />
           <Button name="8" clickHandler={this.handleClick} />

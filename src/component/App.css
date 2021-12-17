@@ -3,4 +3,12 @@
   flex-direction: column;
   flex-wrap: wrap;
   height: 100%;
+  background-color: white;
+  width: 700px;
+}
+.Tittle{
+  color: black;
+  text-align: center;
+  border-bottom: 4px black solid ;
+  
 }
